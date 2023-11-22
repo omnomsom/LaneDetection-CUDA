@@ -30,15 +30,15 @@ This CUDA C++ program performs Gaussian blur, Canny edge detection, and Hough tr
 #### Output
 - The processed images will be saved as `res.jpg` (Final result with detected lines).
 
-### Example Output
+### Example
 
 ![Original Image](lanes.jpg)
 
-#### 1. Canny Edge Detection
+#### Canny Edge Detection
 
 ![Canny Edge Detection](cannyres.jpg)
 
-#### 2. Detected Lines
+#### Detected Lines
 
 ![Detected Lines](res.jpg)
 
